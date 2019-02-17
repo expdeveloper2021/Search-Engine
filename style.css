@@ -1,0 +1,35 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+li {
+    list-style-type: none;
+    border: 2px solid blue;
+    width: 30%;
+    height: 50px;
+    margin-left: 32.5%;
+    background-color: aqua;
+    font-size: 25px;
+    text-align: center;
+}
+
+li:hover {
+    background-color: gray;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+input {
+    margin-left: 40%;
+    width: 20%;
+    margin-top: 5%;
+}
+
+
+
+
+
+
+
+
+
